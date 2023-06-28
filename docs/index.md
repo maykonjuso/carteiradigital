@@ -17,13 +17,21 @@ TÓPICOS ESPECIAIS EM GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO
 
 ### Professores
 Andrea Castello Branco Judice
+<br>
 Rejane Maria da Costa
+<br>
 Marcelo Ortega Judice
 
 ### Grupo
 
+UxTilingue
+
 Maykon Júnio - Eng. de Software
+<br>
 Isaac Lucas - Eng. de Software
+<br>
 Guilherme Coelho - Eng. de Software
+<br>
 Pedro fraga - Eng. Automotiva
+<br>
 Gabriel Marques - Eng. de Software
