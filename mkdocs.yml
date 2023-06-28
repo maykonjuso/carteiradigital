@@ -20,6 +20,8 @@ repo_name: CarteiraDigital
 theme:
   name: material
   language: pt
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
   features:
     - navigation.tabs
     - navigation.tabs.sticky
