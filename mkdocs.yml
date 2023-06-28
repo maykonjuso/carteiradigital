@@ -1,1 +1,49 @@
-site_name: My Docs
+site_name: Carteira de Trânsito Digital
+
+nav:
+  - Home: index.md
+  - Personas:
+      - Persona 01: Personas/persona01.md
+      - Persona 02: Personas/persona02.md
+      - Persona 03: Personas/persona03.md
+      - Persona 04: Personas/persona04.md
+      
+  - FLuxos de usuários: Fluxo/index.md
+  - FLuxos de usuários: Mapas/index.md
+  - Protótipo: Prototipo/index.md
+  - Relatórios: 
+      - Relatório de UX: Relatorios/relatorioux.md
+      - Relatório final: Relatorios/relatoriofinal.md
+
+repo_url: https://github.com/maykonjuso/CarteiraDigital/
+repo_name: CarteiraDigital
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - content.action.edit
+    - content.action.view
+    - navigation.top
+    - content.tabs.link
+    - content.code.annotation
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: green
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+    - scheme: slate
+      primary: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
